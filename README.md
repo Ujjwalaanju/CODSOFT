@@ -62,3 +62,33 @@ Enter marks for subject 5: 92
 Total Marks Obtained: 433 / 500  
 Average Percentage: 86.6%  
 Grade: B
+
+
+
+# ATM Interface System 💳
+
+A console-based ATM simulation built using Java.  
+This project demonstrates Object-Oriented Programming (OOP) concepts and basic banking operations.
+
+---
+
+## 🚀 Features
+
+- Deposit Money
+- Withdraw Money
+- Check Account Balance
+- Input Validation
+- Modular Class Design
+
+---
+
+## 🛠 Technologies Used
+
+- Java
+- OOP (Encapsulation, Class Interaction)
+- VS Code
+
+---
+
+
+
